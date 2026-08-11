@@ -4,7 +4,7 @@ navbar_name: "Changqing Li"
 
 positions:
 - name: Ph. D. student
-- name: Universite libre de Bruxelles
+- name: Université libre de Bruxelles
   logo: /assets/images/badges/ULBlogo.png  # Logo is optional
 
 
@@ -22,7 +22,17 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am Changqing Li, a Ph. D. student at the <a href="https://opera-photonics.polytech.ulb.be/" target="_blank">OPERA Photonics</a>,
+    <a href="https://www.ulb.be/" target="_blank">Université libre de Bruxelles (ULB)</a>, specializing in Applied Physics
+    /Photonics/Optical Engineering. My research primarily focuses on Advanced lasers, like at Far-infrared and Nonlinear dynamics in ultrafast lasers
+    , like solitons and chaos.
+  </p>
+   <p>
+    Prior to joining ULB, I obtained my Master's and bachleor's degree from 
+    <a href="https://oei.hust.edu.cn/" target="_blank">School of Optical and Electronic Information (SOEI)</a>, 
+    <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology (HUST)</a>. 
+    I am passionate about explain the complex nonlinear dynamics not only in lasers but also in other phyicscal scenarios 
+    and have been involved in several projects related to ultrafast lasers.
   </p>
   <p>
     There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
