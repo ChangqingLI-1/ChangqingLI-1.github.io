@@ -56,13 +56,39 @@ education:
   position: B.Eng. in Optoelectronic Information Science and Engineering
   date: Sep. 2019 - Jul. 2023
   
-award:
+awards:
 - name: Outstanding Master's Thesis
   date: 2026
 - name: Outstanding Graduate
   date: 2026
 - name: National scholarship (for Master's students)
   date: 2025
+  - name: Merit Student
+  date: 2025
+- name: First-Class Master’s Academic Scholarship
+  date: 2025
+- name: Scholarship for Self-improvement and Endeavor
+  date: 2024
+- name: First-Class Master’s Academic Scholarship
+  date: 2024
+- name: First-Class Master’s Academic Scholarship
+  date: 2023
+- name: Outstanding Graduate
+  date: 2023
+- name: Merit Student
+  date: 2023
+- name: National Scholarship (for undergraduates)
+  date: 2022
+- name: Scholarship for National Encouragement
+  date: 2021
+- name: Merit Student
+  date: 2021
+- name: Scholarship for National Encouragement
+  date: 2020
+- name: Scholarship for Academic Progress
+  date: 2020
+- name: Scholarship for Self-improvement
+  date: 2020
 
 
 
