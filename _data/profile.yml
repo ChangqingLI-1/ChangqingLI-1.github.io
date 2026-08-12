@@ -4,7 +4,7 @@ navbar_name: "Changqing Li"
 
 positions:
 - name: Ph. D. student
-- name: Université libre de Bruxelles
+- name: Université Libre de Bruxelles
   logo: /assets/images/badges/ULBlogo.png  # Logo is optional
 
 
@@ -28,7 +28,7 @@ short_bio: >-
     , like solitons and chaos.
   </p>
    <p>
-    Prior to joining ULB, I obtained my Master's and bachleor's degree from 
+    Prior to joining ULB, I obtained my Master's and Bachleor's degree from 
     <a href="https://oei.hust.edu.cn/" target="_blank">School of Optical and Electronic Information (SOEI)</a>, 
     <a href="https://www.hust.edu.cn/" target="_blank">Huazhong University of Science and Technology (HUST)</a>. 
     I am passionate about explaining the complex nonlinear dynamics not only in lasers but also in other phyicscal scenarios 
@@ -41,16 +41,20 @@ portrait_caption: >-
   Changqing Li, 2025, Changchun, China
   
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Université Libre de Bruxelles
+  logo: /assets/images/badges/ULBlogo.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Opera photonics<br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2026 - present
+- name: Huazhong University of Science and Technology
+  logo: /assets/images/badges/HUSTlogo.png
+  position: M.Sc. in Optical Engineering
+  date: Sep. 2023 - Jul. 2026
+  - name: Huazhong University of Science and Technology
+  logo: /assets/images/badges/HUSTlogo.png
+  position: B.Eng. in Optoelectronic Information Science and Engineering
+  date: Sep. 2019 - Jul. 2023
   
 # experience:
 # - name: Peking University
